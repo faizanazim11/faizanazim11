@@ -47,7 +47,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 > A powerful solution to expose any folder as a download server in just a few clicks
 - **Tech Stack:** Python/Go
 - **Features:** Dynamic file serving, easy setup, secure access
-- **Status:** ⭐ 1 star, actively maintained
+- **Status:** ![GitHub Repo stars](https://img.shields.io/github/stars/faizanazim11/DynaD?style=social) actively maintained
 
 ### 🚗 [Pillion Rider App](https://github.com/faizanazim11/Pillion-Rider)
 > Java-based application for ride sharing and transportation management

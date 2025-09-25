@@ -1,7 +1,8 @@
 # Hi there, I'm Faizan! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+
+  **Full Stack Developer &nbsp;|&nbsp; Cloud Enthusiast &nbsp;|&nbsp; Open Source Contributor &nbsp;|&nbsp; Always Learning New Things**
 </div>
 
 ## 🚀 About Me
